@@ -1,0 +1,95 @@
+.navbar-default .navbar-nav>li>a{
+	letter-spacing: 0.3rem;
+	text-transform: uppercase;
+	color: #ffec80;
+}
+
+.navbar-brand{
+	padding: 0;
+}
+
+.list-unstayled li {
+  flex-grow: 1;
+  border-bottom: 1px solid black;
+  margin: 5px;
+
+}
+
+.navbar{
+	background-color:#660000;
+	margin-bottom: 0%;
+}
+
+h1{
+	color:#ffec80;
+	font-style: italic;
+}
+
+body{
+	background-color: #660000;
+	color:lightgrey;
+}
+
+.panel-body
+{
+	color:black;
+}
+
+.thumbnail .caption .btn{
+	background-color: lightgrey;
+	color:#660000;
+}
+
+.thumbnail .caption h3{
+	color:#660000;
+	font-style: italic;
+}
+
+.thumbnail{
+	background-color: grey;
+}
+
+.thumbnail p{
+	color:black;
+}
+
+.btn{
+	background-color: grey;
+	color:black;
+}
+
+.zoom{
+	padding:5px;
+}
+.zoom:hover {
+  transform: scale(0.97); 
+}
+
+.panel-body h4{
+	color:#660000;
+	font-style: italic;
+}
+
+.panel{
+	background-color: grey;
+	color:black;
+}
+
+.zoomin:hover{
+	transform: scale(1.2) ;
+}
+.zoomin{
+	padding:15px;
+}
+
+td{
+	padding:10px;
+}
+
+.dugme:hover{
+	background-color: black;
+}
+
+.boji:active{
+	background-color: grey;
+}
